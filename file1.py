@@ -4,6 +4,6 @@ Your profile page tells people the story of your work through the repositories y
 About your organization's profile
 Your organization's profile page shows basic information about your organization.
 
-Personalizing your profile
+
 You can share information about yourself with other GitHub users by setting a profile picture and adding a bio to your profile.
 ###### This is my first update####
